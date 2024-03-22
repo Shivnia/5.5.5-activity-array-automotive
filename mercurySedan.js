@@ -21,9 +21,6 @@ console.log(v.make)
 
 
 
-
-
-
 //TO DO: Creating Instances and Testing Them
 
 //You can use the same instance "v" of the Vehicle class above for the base class.
